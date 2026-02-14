@@ -1,4 +1,4 @@
-# ML Assignment 2 – Heart Disease UCI Classification with Streamlit
+# ML Assignment 2 – Adult Income Prediction with Streamlit
 ## Problem statement
 The Adult Income dataset contains demographic and employment information such as age, education, occupation, hours per week, and marital status, along with a binary label indicating whether the individual earns more than 50K per year. In this project, the goal is to build and compare multiple machine learning models that predict the income class (`<=50K` or `>50K`) from these attributes. 
 
